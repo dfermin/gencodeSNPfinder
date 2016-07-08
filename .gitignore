@@ -1,0 +1,4 @@
+*.db
+*.vcf.gz
+*.gff3.gz
+

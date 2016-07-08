@@ -1,4 +1,4 @@
-# genecodeSNPfinder.py 
+# gencodeSNPfinder.py 
 
 This is a python script that, given a human dbSNP identifier, will return a list of all
 the genes near to it. The script takes in a bunch of parameters, some are required and
